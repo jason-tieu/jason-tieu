@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a third-year Computer and Software Engineering student with a passion for building innovative tech solutions. Currently diving into cloud computing and backend development, I enjoy working with AWS, React, and various programming languages like Python and C++. My goal is to create impactful, privacy-focused applications that empower users. When I’m not coding, I’m probably exploring new tech trends, competing in esports, or helping others understand complex concepts through tutoring. Excited to learn, collaborate, and contribute to meaningful projects!
+I'm a final-year Computer and Software Engineering student with a passion for building innovative tech solutions. Currently diving into cloud computing and backend development, I enjoy working with AWS, React, and various programming languages like Python and C++. My goal is to create impactful, privacy-focused applications that empower users. When I’m not coding, I’m probably exploring new tech trends, competing in esports, or helping others understand complex concepts through tutoring. Excited to learn, collaborate, and contribute to meaningful projects!
 
 
 ## 🌐 Socials:
